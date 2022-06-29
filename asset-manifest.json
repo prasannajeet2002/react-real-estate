@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-real-estate/static/css/main.cbaf0a0b.css",
+    "main.js": "/react-real-estate/static/js/main.88b9cb3e.js",
+    "static/media/5.jpg": "/react-real-estate/static/media/5.c9af3a6437d764ae03dc.jpg",
+    "static/media/2.jpg": "/react-real-estate/static/media/2.153dcb85f87cb86e9982.jpg",
+    "static/media/7.jpg": "/react-real-estate/static/media/7.956b93827a151c5d14cb.jpg",
+    "static/media/1.jpg": "/react-real-estate/static/media/1.21d7f0e744c15615cf90.jpg",
+    "static/media/6.jpg": "/react-real-estate/static/media/6.394395a2a2980af679ae.jpg",
+    "static/media/4.jpg": "/react-real-estate/static/media/4.bfa9d405859ba94da728.jpg",
+    "static/media/3.jpg": "/react-real-estate/static/media/3.32a45bea3b3ecfc397d6.jpg",
+    "index.html": "/react-real-estate/index.html",
+    "main.cbaf0a0b.css.map": "/react-real-estate/static/css/main.cbaf0a0b.css.map",
+    "main.88b9cb3e.js.map": "/react-real-estate/static/js/main.88b9cb3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbaf0a0b.css",
+    "static/js/main.88b9cb3e.js"
+  ]
+}
